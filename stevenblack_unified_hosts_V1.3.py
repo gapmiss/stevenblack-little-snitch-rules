@@ -1,4 +1,3 @@
-#https://graceandpeace.to/unified_host_f_g_p/stevenblack3.lsrules
 import os
 import time
 from urllib.request import urlopen
