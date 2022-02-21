@@ -57,9 +57,6 @@ def getDirName(url):
 def convert_to_lsrules(target_url):
 	output_dir=getDirName(target_url)
 
-	print(output_dir)
-	return output_dir
-
 	output_script='sb_'
 	description=''
 	name='Steven Black'
